@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RepoHub/static/css/main.0e91afa2.chunk.css",
+    "main.js": "/RepoHub/static/js/main.7b7978fe.chunk.js",
+    "main.js.map": "/RepoHub/static/js/main.7b7978fe.chunk.js.map",
+    "runtime-main.js": "/RepoHub/static/js/runtime-main.bc98f214.js",
+    "runtime-main.js.map": "/RepoHub/static/js/runtime-main.bc98f214.js.map",
+    "static/js/2.7dddb94e.chunk.js": "/RepoHub/static/js/2.7dddb94e.chunk.js",
+    "static/js/2.7dddb94e.chunk.js.map": "/RepoHub/static/js/2.7dddb94e.chunk.js.map",
+    "index.html": "/RepoHub/index.html",
+    "static/css/main.0e91afa2.chunk.css.map": "/RepoHub/static/css/main.0e91afa2.chunk.css.map",
+    "static/js/2.7dddb94e.chunk.js.LICENSE.txt": "/RepoHub/static/js/2.7dddb94e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc98f214.js",
+    "static/js/2.7dddb94e.chunk.js",
+    "static/css/main.0e91afa2.chunk.css",
+    "static/js/main.7b7978fe.chunk.js"
+  ]
+}
