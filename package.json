@@ -1,6 +1,6 @@
 {
   "name": "repo",
-  "homepage": "https://5idd.github.io/RepoHub",
+  "homepage": "https://github.com/sidsaurav/RepoHub",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,10 +17,10 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
+    "build": "react-scripts build", 
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
